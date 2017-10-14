@@ -1,5 +1,8 @@
 
+# 接入方法1: Core + DTU Sending
 
+
+# 接入方法2: Core + DataUpload Logic
 
 
 
