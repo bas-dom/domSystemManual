@@ -7,4 +7,5 @@
   * [数据接入](shu-ju-jie-516528-data-upload-md.md)
 * dom云平台
   * [自助设备接入云平台的流程](zi-zhu-she-bei-jie-ru-yun-ping-tai-de-liu-cheng.md)
+* [操作员工作站部署](cao-zuo-yuan-gong-zuo-zhan-bu-shu.md)
 
