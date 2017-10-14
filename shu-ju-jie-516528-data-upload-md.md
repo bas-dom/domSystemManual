@@ -5,6 +5,7 @@
 # 接入方法2: Core + DataUpload Logic
 
 
+# 接入方法3: FTP数据传送
 
 
 # 常见的局域网限制
